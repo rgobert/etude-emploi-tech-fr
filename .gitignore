@@ -1,0 +1,6 @@
+# Texte brut des offres : contenu des entreprises, non republié
+data/*/jobs_raw*.jsonl
+raw/
+__pycache__/
+*.pyc
+.DS_Store
